@@ -849,18 +849,26 @@ body.view-control-buttons .viewControlButton {
 
 #HSSewer {
   background: url(img/down.svg);
+  background-position: center;
+  background-size: contain;
 }
 
 #HSImages {
   background: url(img/image.svg);
+  background-position: center;
+  background-size: contain;
 }
 
 #HSQuestions {
   background: url(img/chat.svg);
+  background-position: center;
+  background-size: contain;
 }
 
 #HSVideo {
   background: url(img/video.svg);
+  background-position: center;
+  background-size: contain;
 }
 
 .hsLabel:hover {
