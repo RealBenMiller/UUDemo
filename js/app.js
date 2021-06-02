@@ -18,8 +18,8 @@
 // Creating hotspot locations
 
 scene.hotspotContainer().createHotspot(document.querySelector("#HSSewer"), {
-  "yaw": 0.5486307201407392,
-          "pitch": -0.06210568266343586,
+  "yaw": -0.6050463166277851,
+          "pitch": 0.15850440295379187,
 });
 
 scene.hotspotContainer().createHotspot(document.querySelector("#HSLeaflet"), {
